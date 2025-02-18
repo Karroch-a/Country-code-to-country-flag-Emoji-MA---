@@ -1,6 +1,6 @@
 {
   "name": "@karroch/country-flags-emoji",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert ISO 3166-1 country codes to flag emojis",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
