@@ -1,0 +1,44 @@
+{
+  "name": "@karroch/country-flags-emoji",
+  "version": "1.0.1",
+  "description": "Convert ISO 3166-1 country codes to flag emojis",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "flag",
+    "emoji",
+    "country",
+    "ISO-3166",
+    "conversion"
+  ],
+  "author": "Karroch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karroch-a/Country-code-to-country-flag-Emoji-MA---.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Karroch-a/Country-code-to-country-flag-Emoji-MA---/issues"
+  },
+  "homepage": "https://github.com/Karroch-a/Country-code-to-country-flag-Emoji-MA---#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
