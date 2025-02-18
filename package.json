@@ -20,12 +20,12 @@
   "author": "Karroch",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Karroch-a/Country-code-to-country-flag-Emoji-MA---.git"
+    "url": "git+https://github.com/Karroch-a/country-flags-emoji.git"
   },
   "bugs": {
-    "url": "https://github.com/Karroch-a/Country-code-to-country-flag-Emoji-MA---/issues"
+    "url": "https://github.com/Karroch-a/country-flags-emoji/issues"
   },
-  "homepage": "https://github.com/Karroch-a/Country-code-to-country-flag-Emoji-MA---#readme",
+  "homepage": "https://github.com/Karroch-a/country-flags-emoji#readme",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.12",
